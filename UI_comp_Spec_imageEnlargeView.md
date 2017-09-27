@@ -1,5 +1,5 @@
 # UI Component [ImageEnlargeView] V1.0
-### Usage:
+### Usage
 - View an images in a large size
 - Zoom in / out
 
