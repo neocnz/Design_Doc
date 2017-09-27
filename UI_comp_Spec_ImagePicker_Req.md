@@ -51,10 +51,10 @@
     - When the selected images are more than 10 the TickBox will be appears as inactived status
     
 ### Wireframes:
-**[Image Picker Main](https://share.weiyun.com/050a0fc50b878e7982152c7f430fc6d1)**
+**[Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)**
 
-**[Enlarge Image View](https://share.weiyun.com/e5f7e9fa8d86f0eae170fd579a8ef487)**
+**[Enlarge Image View](https://www.jianguoyun.com/p/DS350rwQpqzHBhiP-zU)**
 
-**[Image Folders Dropdown](https://share.weiyun.com/fb13c4faf33a84eac999edfd3c33c9ed)**
+**[Image Folders Dropdown](https://www.jianguoyun.com/p/DcpFivUQpqzHBhiQ-zU)**
 
-**[Web Image Search](https://share.weiyun.com/de3eac61c20b03c85816aadb75b73abc)**
+**[Web Image Search](https://www.jianguoyun.com/p/DZdVuLUQpqzHBhiJ-zU)**
