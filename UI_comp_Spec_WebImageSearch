@@ -44,3 +44,6 @@
   - When tap again the selected cell deselect the cell
   - The max number of the image can be picked in one go is 10
   - **[On Error]** when selecting an image exceeded the selection limit, popup a dialog box to notice the user
+  
+### Wireframe
+[Web Image Search](https://www.jianguoyun.com/p/DZdVuLUQpqzHBhiJ-zU)
