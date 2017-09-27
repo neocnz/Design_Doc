@@ -41,14 +41,17 @@
 
 ### Integrated Components:
 - **[ImageEnlargeView] (Altered)** : 
-  **Remove Behavior**
-  - **ImageLargeView_ImageCounterIndicator (Highlight)** : 
-    - the image counter indicator of the in view image will be highlight
-
+  
+  **Add UI Elements**
+  - **Actionbar:**
+    - Button: back
+    - Checkbox: pick
+  
   **Add Behavior**
-  - **ImageLargeView_Actionbar_TickBox {Tap}** :
-    - Tap the TickBox the select current image
+  - **ImageLargeView_Actionbar_TickBox {Tap}** : 
+    - Tap the CheckBox to select current image
     - When the selected images are more than 10 the TickBox will be appears as inactived status
+
     
 ### Wireframes:
 **[Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)**
