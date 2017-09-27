@@ -28,10 +28,11 @@
 - **GridListView_List {Scroll}** : 
   - Scroll only vertically 
 - **GridListView_Cell {Tap}** : 
-  - Tap to select the cell 
+  - Tap to select the image in cell 
   - When selected has a sim-tranparent overlay with a number of the select sequence on it
   - When tap again the selected cell deselect the cell
   - The max number of the image can be picked in one go is 10
+  - **[On Error]** when selecting an image exceeded the selection limit, popup a dialog box to notice the user
 - **GridListView_Cell {LongPress}** : 
   - Enter the **[[ImageEnlargeView]](https://hackmd.io/BwFgZgRgTAjAnFAtDCBjArIkA2HiHoAmiqAzHBMHAKaEAMMA7NUA) (Altered)**
 - **GridListView_Camera {Tap}** : 
@@ -52,7 +53,7 @@
     - Tap the CheckBox to select current image
     - When the selected images are more than 10 the TickBox will be appears as inactived status
 
-    
+
 ### Wireframes:
 [Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)
 
