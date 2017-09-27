@@ -6,7 +6,6 @@
 ### UI Elements
 - **Image Large View**:
   - Content: Image in large view
-  - Image Count Indicator: Little round dots at the bottom
 
 ### Behaviors 
 - **ImageLargeView_Content {Pinch}** : 
@@ -15,5 +14,11 @@
 - **ImageLargeView_Content {Slide}** : 
   - Slide left to next image
   - Slide right to previous image
-- **ImageLargeView_ImageCounterIndicator (Highlight)** : 
-  - the image counter indicator of the in view image will be highlight
+- **ImageLargeView_Content {Tap}** : 
+  - Exit the enlarge view mode
+- **ImageLargeView_Content {SlideDown}** : 
+  - Exit the enlarge view mode
+ 
+ 
+### Wireframe
+[ImageEnlargeView](https://www.jianguoyun.com/p/DeR-ReMQpqzHBhiq-zU)
