@@ -1,5 +1,5 @@
 # UI Component [ImagePicker] V1.0
-### Usage:
+### Usage
 - Browse images on local device from different folders
 - Search static images / gif moving images from Internet
 - Pick images from the list and preivews of selected images
@@ -40,7 +40,7 @@
 - **GridListView_WebImageSearch {Tap}** : 
   - Enter the **[[WebImageSearch]](https://hackmd.io/OwUwhsCMBMAsCcBaAJgYwKxkbAZugDImOuiIvMPtAMzrLrUBsj0QA===)** 
 
-### Integrated Components:
+### Integrated Components
 - **[ImageEnlargeView] (Altered)** : 
   
   **Add UI Elements**
@@ -54,7 +54,7 @@
     - When the selected images are more than 10 the TickBox will be appears as inactived status
 
 
-### Wireframes:
+### Wireframes
 [Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)
 
 [Enlarge Image View](https://www.jianguoyun.com/p/DS350rwQpqzHBhiP-zU)
