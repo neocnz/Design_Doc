@@ -54,10 +54,10 @@
 
     
 ### Wireframes:
-**[Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)**
+[Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)
 
-**[Enlarge Image View](https://www.jianguoyun.com/p/DS350rwQpqzHBhiP-zU)**
+[Enlarge Image View](https://www.jianguoyun.com/p/DS350rwQpqzHBhiP-zU)
 
-**[Image Folders Dropdown](https://www.jianguoyun.com/p/DcpFivUQpqzHBhiQ-zU)**
+[Image Folders Dropdown](https://www.jianguoyun.com/p/DcpFivUQpqzHBhiQ-zU)
 
-**[Web Image Search](https://www.jianguoyun.com/p/DZdVuLUQpqzHBhiJ-zU)**
+[Web Image Search](https://www.jianguoyun.com/p/DZdVuLUQpqzHBhiJ-zU)
