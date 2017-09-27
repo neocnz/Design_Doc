@@ -1,0 +1,46 @@
+# UI Component [Web Image Search] V1.0
+### Usage
+- Search a static image from Internet with a keyword
+- Search a moving gif image from Internet with a keyword
+
+### UI Elements
+- **Actionbar**:
+  - Input Box: Input search keyword 
+  - Clean Input Button: Clean the input texts
+  - Button: Back
+  - Button: Done
+
+- **Tab Bar**:
+  - Tab Bar: Input search keyword 
+  - Button: Gif image search
+  - Button: Static image search
+
+- **Search Result List** : 
+  - A two columns grid list view for gif image result
+  - A three columns grid list view for static image result
+
+- **Popup Keyboard**:
+  - Button: Search 
+  
+### Behaviors 
+- **Actionbar_Back {Tap}** : 
+  - Go back to previous page without the picked image
+- **Actionbar_Done {Tap}** : 
+  - Go back to previous **[[ImagePicker]](https://hackmd.io/KwBgLAHMCGCMBGBaAzAYwOxkWAbAEwFNFp4RUUJ5loBOYVaMdHIA)** with the picked image
+  - The picked image will be temporarily saved in the latest position on  **[[ImagePicker]](https://hackmd.io/KwBgLAHMCGCMBGBaAzAYwOxkWAbAEwFNFp4RUUJ5loBOYVaMdHIA)** appears as selected status
+- **Actionbar_InputBox {Tap}** : 
+  - Focus on the input box and popup the keyboard
+  - Dropdown from the input box show three previous searched keywords
+- **Tapbar_Gif {Tap}** : 
+  - Display the gif image search view
+- **Tapbar_Image {Tap}** : 
+  - Display the static image search view
+- **PopupKeyboard_Search {Tap}**:
+  - Commit search action
+  - **[On Error]** when the Internet connection is lost return No Result notice
+- **SearchResultList_Cell {Tap}** : 
+  - Tap to select the image in cell 
+  - When selected has a sim-tranparent overlay with a number of the select sequence on it
+  - When tap again the selected cell deselect the cell
+  - The max number of the image can be picked in one go is 10
+  - **[On Error]** when selecting an image exceeded the selection limit, popup a dialog box to notice the user
