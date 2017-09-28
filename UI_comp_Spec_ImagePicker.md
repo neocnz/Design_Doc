@@ -58,12 +58,10 @@
 
 ### Wireframes
 [Image Picker Main](https://www.jianguoyun.com/p/DdiTSAoQpqzHBhiO-zU)
-
 [Enlarge Image View](https://www.jianguoyun.com/p/DS350rwQpqzHBhiP-zU)
-
 [Image Folders Dropdown](https://www.jianguoyun.com/p/DcpFivUQpqzHBhiQ-zU)
-
 [Web Image Search](https://www.jianguoyun.com/p/DZdVuLUQpqzHBhiJ-zU)
 
-### Video Demonstration 
-[Image Picker](https://www.jianguoyun.com/p/Dbwk8v8QpqzHBhiZhDY)
+### Video Demonstration
+[Image Picker - Android](https://www.jianguoyun.com/p/Dbwk8v8QpqzHBhiZhDY)
+[Image Picker - iOS](https://www.jianguoyun.com/p/DbXq3_IQpqzHBhiwiDY)
