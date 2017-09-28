@@ -27,7 +27,7 @@
   - The selected folder name will be displayed on the dropdown button
 - **GridListView_List {Scroll}** : 
   - Scroll only vertically 
-  - When the screen is already scrolled to the top, pull down the list further, the grid list will separate from the actionbar goes down and occupies the 2/3 lower part of the screen. The actionbar will be disappeared, the 1/3 of the top part will be an empty space for integrating other components 
+  - When the screen is already scrolled to the top, pull down the list further, the grid list will separate from the actionbar goes down and occupies a certain portion of the lower part of the screen. The actionbar will be disappeared, the top part will be an empty space to view and interact with the component beneath 
 - **GridListView_Cell {Tap}** : 
   - Tap to select the image in cell 
   - When selected has a sim-tranparent overlay with a number of the select sequence on it
