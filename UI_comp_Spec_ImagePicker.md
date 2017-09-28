@@ -27,6 +27,7 @@
   - The selected folder name will be displayed on the dropdown button
 - **GridListView_List {Scroll}** : 
   - Scroll only vertically 
+  - When the screen is already scrolled to the top, pull down the list further, the grid list will separate from the actionbar goes down and occupies the 2/3 lower part of the screen. The actionbar will be disappeared, the 1/3 of the top part will be an empty space for integrating other components 
 - **GridListView_Cell {Tap}** : 
   - Tap to select the image in cell 
   - When selected has a sim-tranparent overlay with a number of the select sequence on it
@@ -39,6 +40,7 @@
   - Open the device camera
 - **GridListView_WebImageSearch {Tap}** : 
   - Enter the **[[WebImageSearch]](https://hackmd.io/OwUwhsCMBMAsCcBaAJgYwKxkbAZugDImOuiIvMPtAMzrLrUBsj0QA===)** 
+
 
 ### Integrated Components
 - **[ImageEnlargeView] (Altered)** : 
@@ -62,3 +64,6 @@
 [Image Folders Dropdown](https://www.jianguoyun.com/p/DcpFivUQpqzHBhiQ-zU)
 
 [Web Image Search](https://www.jianguoyun.com/p/DZdVuLUQpqzHBhiJ-zU)
+
+### Video Reference
+[Image Picker](https://www.jianguoyun.com/p/Dbwk8v8QpqzHBhiZhDY)
