@@ -30,3 +30,10 @@
 - **ListView_ListItem {Tap} :**
   - Lead to corresponded details page
   - When and only when an unread item been tapped, it will turn into Read status, the Unread highlight disappeares
+- **ListView_ListView {Scroll} :**
+  - When the list view is already scrolled to the top, pull down the list further the view will be refreshed
+
+### Wireframes
+[Activity Center Unread View](https://www.jianguoyun.com/p/DRF4Ta4QpqzHBhj9hjY)
+
+[Activity Center Read View](https://www.jianguoyun.com/p/DfBXVRQQpqzHBhiAhzY)
