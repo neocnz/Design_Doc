@@ -92,7 +92,7 @@
   - If the input verification code is incorrect Popup the [ErrorDescription] on top of the keyboard
 
 ### Mockups
-[SignUp_VerificationCodeInput](https://www.jianguoyun.com/p/DX6sfmoQpqzHBhiJ1jY)
+![SignUp_VerificationCodeInput](https://www.jianguoyun.com/c/tblv2/CPXHGRIg79C9t2EhIvW1TLqtDJ3TUShz27Oor-WSGoZYnvNe9ew/4WkASCbPrvk/l)
 
 # UI Component [SignUp_SetIDPassword] V1.0
 ### Usage
@@ -141,7 +141,7 @@
   - Finish loading land on next page
 
 ### Mockups
-[SignUp_SetIDPassword](https://www.jianguoyun.com/p/Da9Tcs0QpqzHBhia3TY)
+![SignUp_SetIDPassword](https://www.jianguoyun.com/c/tblv2/CPXHGRIghOAVP9zrE4eYYBK8zU3P7WR1zhWQlo0IU4Vh_MvCLCw/A1DuNZptUb0/l)
 
 
 # UI Component [SignUp_RequireAddressbook] V1.0
@@ -175,7 +175,7 @@
 
 
 ### Mockups
-[SignUp_RequireAddressbook](https://www.jianguoyun.com/p/Dbd5mgIQpqzHBhim3TY)
+![SignUp_RequireAddressbook](https://www.jianguoyun.com/c/tblv2/CPXHGRIg12CQGw3ogBKlUzUL379f0bM9dV1zfm1ncv83PrnE_gc/34HASjVH2iI/l)
 
 # UI Component [SignUp_SetProfile] V1.0
 ### Usage
@@ -245,7 +245,7 @@
   - Finish loading land on next page
 
 ### Mockups
-[SignUp_SetProfile](https://www.jianguoyun.com/p/DZL6jhcQpqzHBhjz3TY)
+![SignUp_SetProfile](https://www.jianguoyun.com/c/tblv2/CPXHGRIgwQ3THbcbiV0Api6Zm-nX0ujGekn64UwdtdoVSN-G5Wc/9dsGhz286rw/l)
 
 
 # [SignUp_Flow] V1.0
