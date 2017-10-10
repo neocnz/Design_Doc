@@ -8,7 +8,7 @@
   - Button: Back
   - Progress indication
 - **ContryCodePicker**:
-  - Label: +<CountryCodeNumber>
+  - Label: + <CountryCodeNumber>
 - **InputField**:
   - Hint: Your Phone Number
   - Input format error indication 
