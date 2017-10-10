@@ -94,3 +94,52 @@
 ### Mockups
 [SignUp_VerificationCodeInput](https://www.jianguoyun.com/p/DX6sfmoQpqzHBhiJ1jY)
 
+# UI Component [SignUp_SetIDPassword] V1.0
+### Usage
+- Set an unique username
+- Set a password
+
+### UI Elements
+- **Actionbar**:
+  - Title: Set your user ID and password
+  - Button: Back
+  - Progress indication
+- **PageDescription**:
+  - Text: The SELECT ID is unique in the app and you can not change it after you set it
+- **UserIDInputField**:
+  - Hint: Your user ID
+  - Input format error indication 
+  - Input format correct indication
+- **PasswordInputField**:
+  - Hint: Password
+  - Password visibility switch
+  - Input format error indication 
+  - Input format correct indication
+- **NextButton**: 
+  - Label: Continue
+- **Keyboard**: 
+  - Full Keyboard
+- **ErrorDescription**: 
+  - Detailed description
+
+ 
+### Behaviors 
+- **UserIDInputField {Input} :**
+  - Conduct the validation check
+  - 3 to 16 numbers or characters
+  - If the input is invalid popup the [ErrorDescription] on top of the keyboard
+  - If the input in [UserIDInputField] and [PasswordInputField] are valid the [Next Button] dispaly as active status (Non-transparent)
+- **PasswordInputField {Input} :**
+  - Conduct the validation check
+  - 4 to 16 numbers or characters
+  - If the input is invalid popup the [ErrorDescription] on top of the keyboard
+  - If the input in [UserIDInputField] and [PasswordInputField] are valid the [Next Button] dispaly as active status (Non-transparent) 
+- **NextButton {Onload} :**
+  - Display as inactive status (Sim-transparent)
+- **NextButton {Tap} :**
+  - Display as loading status
+  - Finish loading land on next page
+
+### Mockups
+[SignUp_SetIDPassword](https://www.jianguoyun.com/p/Da9Tcs0QpqzHBhia3TY)
+
