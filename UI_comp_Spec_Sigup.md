@@ -230,6 +230,7 @@
   - Display as selected status (Bold underline with a tick icon)
 - **EmailInputField {Input}**:
   - Conduct the validation check
+  - It is not a required field to proceed to next step
 - **FacebookButton {Onload}**: 
   - If the user already connected with Facebook previously this button doesn't display
 - **FacebookButton {Tap}**: 
