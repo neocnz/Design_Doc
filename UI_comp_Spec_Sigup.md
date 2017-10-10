@@ -177,3 +177,73 @@
 ### Mockups
 [SignUp_RequireAddressbook](https://www.jianguoyun.com/p/Dbd5mgIQpqzHBhim3TY)
 
+# UI Component [SignUp_SetProfile] V1.0
+### Usage
+- Set profile photo
+- Set display username
+- Set brithday
+- Set gender
+- Set email address
+- Connect and use facebook profile details
+
+### UI Elements
+- **Actionbar**:
+  - Title: Set your profile
+  - Button: Back
+  - Progress indication
+- **AvatarPicker**:
+- **UserNameInputField**:
+  - Hint: Your username
+  - Input format error indication 
+  - Input format correct indication
+- **BirthdayPicker**:
+  - Default: 1st/Jan/1970
+- **GenderPicker**:
+  - Default: Male selected
+- **EmailInputField**:
+  - Hint: Your email address
+  - Input format error indication 
+  - Input format correct indication
+- **FacebookButton**: 
+  - Label: Use Facebook Details
+- **NextButton**: 
+  - Label: Done
+- **Keyboard**: 
+  - Full Keyboard
+- **ErrorDescription**: 
+  - Detailed description
+
+ 
+### Behaviors 
+- **AvatarPicker {Tap} :**
+  - Bring up the image picker
+- **UsernameInputField {Onload} :**
+  - Default: UserID set previously
+- **UsernameInputField {Input} :** 
+  - Conduct the validation check
+  - 1 to 16 any characters
+  - If the input is invalid popup the [ErrorDescription] on top of the keyboard
+  - If the input in [UsernameInputField] and [BirthdayPicker] and [GenderPicker] are valid the [NextButton] dispaly as active status (Non-transparent) 
+- **BirthdayPicker {Tap}**:
+  - Brings up the date picker
+- **GenderPicker {Tap}**:
+  - Display as selected status (Bold underline with a tick icon)
+- **EmailInputField {Input}**:
+  - Conduct the validation check
+- **FacebookButton {Onload}**: 
+  - If the user already connected with Facebook previously this button doesn't display
+- **FacebookButton {Tap}**: 
+  - Start connect Facebook process
+  - Grab the user profile detials from Facebook an fill in to the corresponded user detials field on this page
+- **Keyboard {Onload}**: 
+  - The keyboard is folded (when the username field or email field is focused the keyboard popups)
+- **NextButton {Onload} :**
+  - Display as inactive status (Sim-transparent)
+- **NextButton {Tap} :**
+  - Display as loading status
+  - Finish loading land on next page
+
+### Mockups
+[SignUp_SetProfile](https://www.jianguoyun.com/p/DZL6jhcQpqzHBhjz3TY)
+
+
