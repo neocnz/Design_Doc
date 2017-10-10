@@ -8,7 +8,7 @@
   - Button: Back
   - Progress indication
 - **ContryCodePicker**:
-  - Label: +CountryCodeNumber
+  - Label: +<CountryCodeNumber>
 - **InputField**:
   - Hint: Your Phone Number
   - Input format error indication 
@@ -55,8 +55,8 @@
   - Text: A SMS verification code just sent to (entered phone number) you can tap back to change it if incorrect
 - **InputField**:
   - Four digits input dashes
-- **CooldownCounter**:
-  - 60 seconds cooldown
+- **CountdownCounter**:
+  - 60 seconds countdown
 - **ResendButton**: 
   - Label: Resend
 - **CallButton**: 
@@ -70,10 +70,10 @@
 
  
 ### Behaviors 
-- **CooldownCounter {Onload} :**
-  - 60 seconds cooldown
-  - During cooldown the [Resend] and [Call] button are in inactive status (Sim-transparent)
-  - When cooldown finishs the [Resend] and [Call] button are in active status (Non-transparent), and the cooldown counter disappears
+- **countdownCounter {Onload} :**
+  - 60 seconds countdown
+  - During countdown the [Resend] and [Call] button are in inactive status (Sim-transparent)
+  - When countdown finishs the [Resend] and [Call] button are in active status (Non-transparent), and the countdown counter disappears
 - **Resendbutton {Tap} :**
   - Resend the verification code to the same phone number entered previously
   - The cooldown counter starts again from 60
@@ -134,6 +134,9 @@
   - 4 to 16 numbers or characters
   - If the input is invalid popup the [ErrorDescription] on top of the keyboard
   - If the input in [UserIDInputField] and [PasswordInputField] are valid the [NextButton] dispaly as active status (Non-transparent) 
+- **PasswordInputField_PasswordVisibilitySwitch {Tap} :**
+  - Switch the appearance of the password input between encrypted style and direct display style
+  - The appearance of the switch icon changes according to the status
 - **NextButton {Onload} :**
   - Display as inactive status (Sim-transparent)
 - **NextButton {Tap} :**
