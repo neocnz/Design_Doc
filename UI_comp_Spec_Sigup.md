@@ -36,7 +36,7 @@
 - **InputField {Input} :**
   - Conduct the validation check
   - If invalid input detected display the [Input format error indication], and popup the [ErrorDescription] on top of the keyboard
-  - If the input is valid display the [Input format correct indication], and the [Next Button] dispaly as active status (Non-transparent)
+  - If the input is valid display the [Input format correct indication], and the [NextButton] dispaly as active status (Non-transparent)
 
 ### Mockups
 [SignUp_PhoneNumberVerification](https://www.jianguoyun.com/p/DXDBymYQpqzHBhj81TY)
@@ -83,7 +83,7 @@
 - **InputField {Input} :**
   - Conduct the validation check
   - Popup the [ErrorDescription] on top of the keyboard
-  - If the input is valid the [Next Button] dispaly as active status (Non-transparent)
+  - If the input is valid the [NextButton] dispaly as active status (Non-transparent)
 - **NextButton {Onload} :**
   - Display as inactive status (Sim-transparent)
 - **NextButton {Tap} :**
@@ -128,12 +128,12 @@
   - Conduct the validation check
   - 3 to 16 numbers or characters
   - If the input is invalid popup the [ErrorDescription] on top of the keyboard
-  - If the input in [UserIDInputField] and [PasswordInputField] are valid the [Next Button] dispaly as active status (Non-transparent)
+  - If the input in [UserIDInputField] and [PasswordInputField] are valid the [NextButton] dispaly as active status (Non-transparent)
 - **PasswordInputField {Input} :**
   - Conduct the validation check
   - 4 to 16 numbers or characters
   - If the input is invalid popup the [ErrorDescription] on top of the keyboard
-  - If the input in [UserIDInputField] and [PasswordInputField] are valid the [Next Button] dispaly as active status (Non-transparent) 
+  - If the input in [UserIDInputField] and [PasswordInputField] are valid the [NextButton] dispaly as active status (Non-transparent) 
 - **NextButton {Onload} :**
   - Display as inactive status (Sim-transparent)
 - **NextButton {Tap} :**
