@@ -39,7 +39,7 @@
   - If the input is valid display the [Input format correct indication], and the [NextButton] dispaly as active status (Non-transparent)
 
 ### Mockups
-![SignUp_PhoneNumberVerification](https://www.jianguoyun.com/p/DXDBymYQpqzHBhj81TY)
+![SignUp_PhoneNumberVerification](https://www.jianguoyun.com/c/tblv2/CPXHGRIg2N2tW3NteAYafHY2t73lRxhHT8PL99t2D8YbmNa6MwA/lILVfeAJd44/l)
 
 
 # UI Component [SignUp_VerificationCodeInput] V1.0
