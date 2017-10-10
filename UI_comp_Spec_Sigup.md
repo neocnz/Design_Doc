@@ -143,3 +143,37 @@
 ### Mockups
 [SignUp_SetIDPassword](https://www.jianguoyun.com/p/Da9Tcs0QpqzHBhia3TY)
 
+
+# UI Component [SignUp_RequireAddressbook] V1.0
+### Usage
+- Give a suggestion to the user to upload the addressbook
+
+### UI Elements
+- **Actionbar**:
+  - Progress indication
+- **PageDescription**:
+  - Title: Find Your Friends
+  - Text: Need to access to your contacts book to help you find your friends and your info will never be used for other purposes
+- **GraphicElements**:
+  - Emoji icons to indicate that requiring addressbook upload
+- **NextButton**: 
+  - Label: Continue
+- **SkipButton**: 
+  - Label: Nan, I will stay alone
+
+ 
+### Behaviors 
+- **NextButton {Tap} :**
+  - Display as loading status
+  - Finish loading land on next page
+  - Start uploading the addressbook
+- **SkipButton {Tap} :**
+  - Display as inactive appearance (Sim-transparent)
+  - Finish loading land on next page
+  - Not uploading the addressbook
+  - Popup a dialog box to notice user that can enable addressbook access permission later in settings
+
+
+### Mockups
+[SignUp_RequireAddressbook](https://www.jianguoyun.com/p/Dbd5mgIQpqzHBhim3TY)
+
