@@ -52,7 +52,7 @@
   - Button: Back
   - Progress indication
 - **PageDescription**:
-  - Text: A SMS verification code just sent to 186 2273 7789 you can tap back to change it if incorrect
+  - Text: A SMS verification code just sent to (entered phone number) you can tap back to change it if incorrect
 - **InputField**:
   - Four digits input dashes
 - **CooldownCounter**:
