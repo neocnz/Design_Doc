@@ -248,3 +248,9 @@
 [SignUp_SetProfile](https://www.jianguoyun.com/p/DZL6jhcQpqzHBhjz3TY)
 
 
+# [SignUp_Flow] V1.0
+
+### Flow Charts
+[SignUp_Flow](https://www.jianguoyun.com/p/DTNZOXgQpqzHBhjd4DY)
+
+[SignUp_Interruption](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)
