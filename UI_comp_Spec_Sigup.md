@@ -1,16 +1,16 @@
 ### Table of content
 
-**[SignUp_PhoneNumberVerification](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)**
+**[SignUp_PhoneNumberVerification](https://github.com/supereffective/Design_Doc/blob/master/UI_comp_Spec_Sigup.md#ui-component-signup_phonenumberverification-v10)**
 
-**[SignUp_VerificationCodeInput](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)**
+**[SignUp_VerificationCodeInput](https://github.com/supereffective/Design_Doc/blob/master/UI_comp_Spec_Sigup.md#ui-component-signup_verificationcodeinput-v10)**
 
-**[SignUp_SetIDPassword](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)**
+**[SignUp_SetIDPassword](https://github.com/supereffective/Design_Doc/blob/master/UI_comp_Spec_Sigup.md#ui-component-signup_setidpassword-v10)**
 
-**[SignUp_RequireAddressbook](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)**
+**[SignUp_RequireAddressbook](https://github.com/supereffective/Design_Doc/blob/master/UI_comp_Spec_Sigup.md#ui-component-signup_requireaddressbook-v10)**
 
-**[SignUp_SetProfile](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)**
+**[SignUp_SetProfile](https://github.com/supereffective/Design_Doc/blob/master/UI_comp_Spec_Sigup.md#ui-component-signup_setprofile-v10)**
 
-**[SignUp_FlowCharts](https://www.jianguoyun.com/p/DVMadPcQpqzHBhje4DY)**
+**[SignUp_FlowCharts](https://github.com/supereffective/Design_Doc/blob/master/UI_comp_Spec_Sigup.md#signup_flow-v10)**
 
 
 # UI Component [SignUp_PhoneNumberVerification] V1.0
