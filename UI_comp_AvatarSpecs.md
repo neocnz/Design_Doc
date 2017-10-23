@@ -4,7 +4,8 @@
 
 ### UI Elements
 
-### /Size List
+### /Size List 
+The size is based on the 1080x1920px size screen
 - **Size ExtraLarge [XL]: 192px**
 - **Size Large [L]: 144px**
 - **Size Middle [M]: 120px**
