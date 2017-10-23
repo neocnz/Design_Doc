@@ -41,3 +41,6 @@
   - ListItem: M
 - **SearchResultList**:
   - ListItem: M
+
+### Mockups
+[Avatar](https://drive.google.com/a/supereffective.com/file/d/0ByrgX886wsYdeTdETXFYRF9TYlE/view?usp=sharing)
