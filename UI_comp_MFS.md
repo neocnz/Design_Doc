@@ -14,8 +14,7 @@
   - A single row of contacts circle avatar with username beneath
 - **LocationFilterButton**:
 - **ProfileFilterButton**:
-- **PreviewBar**: 
-  - Label: Use Facebook Details
+- **PreviewBar**:
 
  
 ### Behaviors 
