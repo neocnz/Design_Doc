@@ -93,6 +93,7 @@
 - **GenderSelector {Tap} :**
   - Select the tapped gender
   - The selected gender option is highlighted as selected status
+  - The [All] gender is picked by default
 - **AgePicker {Slide}:**
   - Left nobe to right set the minimum age
   - Right nobe to left set the maximun age
