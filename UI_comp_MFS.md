@@ -98,6 +98,7 @@
   - Left nobe to right set the minimum age
   - Right nobe to left set the maximun age
   - When tap on a nobe popup a number indicator
+  - The default age rang is 16 - 25
 - **Set {Tap} :** 
   - Start filtering with current condition
 - **Reset {Tap} :** 
