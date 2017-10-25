@@ -2,6 +2,14 @@
 ### Usage
 - Find and select friends faster according to the intention
 
+### Stats
+- Event: Enter MFS, User property update: has_used_MFS = 1 (has_used_MFS = 0 by default)
+- Event: Enter Location Filter Page
+- Event: Enter Profile Filter Settings Page
+- Event: Press "Set" in profile filter settings page; Recording: gender, age range lowest, age range highest
+- Event: Press "Reset" in profile filter settings page; Recording: gender, age range lowest, age range highest before resetting.
+- Event: Press "OK"; Recording: username selected, number of user selected, number of user selected that is not friends with (from contact book)
+
 
 ### UI Elements
 - **Actionbar**:
