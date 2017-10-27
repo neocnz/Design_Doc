@@ -7,9 +7,10 @@
 - Event: Enter Location Filter Page
 - Event: Enter Profile Filter Settings Page
 - Event: Press "Set" in profile filter settings page; Recording: gender, age range lowest, age range highest
-- Event: Press "Reset" in profile filter settings page; Recording: gender, age range lowest, age range highest before resetting.
+- Event: Press "Reset" in profile filter settings page; Recording: gender, age range lowest, age range highest before resetting
 - Event: Press "OK"; Recording: username selected, number of user selected, number of user selected that is not friends with (from contact book)
 
+Everything recorded in https://docs.google.com/spreadsheets/d/1ycLjuoiViGw-O3mco-0SDErO8i2r5VQXEzCwIQEwMFU/edit#gid=2133570251 in the MFS section should be tested so we can be sure content in this table is accountable. 
 
 ### UI Elements
 - **Actionbar**:
